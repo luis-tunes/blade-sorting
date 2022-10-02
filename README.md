@@ -10,12 +10,12 @@ i) Estabilished the optimization model by
 ii) Designed the selection operator, crossover operator, and mutation operator of the algorithm.
 
 Inputs:
-  number of blades
-  mass of each blade
-  radius of the gravity center of each blade
-  mass moment of the disk
+  number of blades,
+  mass of each blade,
+  radius of the gravity center of each blade,
+  mass moment of the disk,
   angle between mass moment of the disk and referential
   
 Output:
-  unbalance amount achieved
+  unbalance amount achieved,
   assembly location for each blade
