@@ -10,3 +10,5 @@ ii) Designed the selection operator, crossover operator, and mutation operator o
 Inputs: number of blades, mass of each blade, radius of the gravity center of each blade, mass moment of the disk, angle between mass moment of the disk and referential.
   
 Output: unbalance amount achieved, assembly location for each blade.
+
+Citation: Sun, C.; Xiao, P.; Wang, X.; Liu, Y. Blade Sorting Method for Unbalance Minimization of an Aeroengine Concentric Rotor. Symmetry 2021, 13, 832. https://doi.org/10.3390/sym13050832
