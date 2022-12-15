@@ -1,7 +1,7 @@
 # blade-sorting
 Genetic algorithm
 
-A blade sorting method based on the genetic algorithm is used to minimize the rotor / turbine unbalance of an aero-engine.
+A blade sorting method based on the genetic algorithm is used to minimize the unbalance of an aero-engine rotor.
 
 i) Estabilished the optimization model by a) analyzing the unbalance caused by the deviation of the mass moment of the blades and b) considering the concentricity of the disk.
 
